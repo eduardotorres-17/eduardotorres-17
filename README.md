@@ -5,25 +5,25 @@ Sou um desenvolvedor focado no ecossistema Full-stack e Mobile, atualmente cursa
 ### 🚀 Sobre Mim
 - 🎓 Mestrando em Computação e graduado em Sistemas para Internet pelo **IFSul - Câmpus Pelotas**.
 - 💻 Desenvolvedor focado em soluções Full-stack com tecnologias modernas.
-- 🚴‍♂️ Entusiasta de ciclismo, o que inspirou a criação do **BikeTracker**, meu principal projeto de desenvolvimento mobile.
+- 🚴‍♂️ Entusiasta de ciclismo, o que inspirou a criação do **BikeTracker**, meu projeto de TCC.
 
 ### 🛠️ Tecnologias e Ferramentas
 
 **Frontend & Mobile**
+- **Frameworks & Libs:** React Native, React.js, Angular.
 - **Linguagens:** TypeScript, JavaScript (ES6+).
-- **Frameworks:** React Native, React.js.
 - **Ecossistema:** Expo (Development Builds via EAS), Redux, Material UI, Styled Components.
 - **UX/UI:** Foco em Acessibilidade (Google Accessibility Scanner), Dark Mode e modelo AttrakDiff.
 
 **Backend & Infra**
-- **Linguagens/Frameworks:** Java (Spring Boot), Node.js.
+- **Linguagens/Frameworks:** Java (Spring Boot), PHP (Laravel), Node.js.
 - **BaaS & Cloud:** Supabase (Storage, Auth e Database), Firebase, PostgreSQL.
 - **DevOps:** Docker, Git, Vercel (Deploy).
 
 ### 📈 Principais Projetos
-*   **[BikeTracker](https://github.com/eduardotorres-17/biketracker)**: Aplicativo para registro de atividades de ciclismo com foco em metas e geolocalização (React Native + Firebase).
-*   **Portal do Cliente**: Sistema de gestão de marcos e armazenamento de arquivos integrado com Supabase.
-*   **Xbrain Test**: Implementação técnica utilizando React, Redux e Material UI com deploy automatizado.
+*   **[BikeTracker](https://github.com/eduardotorres-17/biketracker)**: Aplicativo mobile para ciclistas com foco em metas e geolocalização.
+*   **Portal do Cliente**: Sistema de gestão de marcos e armazenamento de arquivos via Supabase.
+*   **Xbrain Test**: Implementação técnica utilizando React, Redux e Material UI.
 
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-bertinetti-torres-a90a73275/)
@@ -32,5 +32,5 @@ Sou um desenvolvedor focado no ecossistema Full-stack e Mobile, atualmente cursa
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub de Eduardo](https://github-readme-stats.vercel.app/api?username=eduardotorres-17&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotorres-17&layout=compact&theme=dark)
+![Estatísticas de Eduardo](https://github-readme-stats.vercel.app/api?username=eduardotorres-17&show_icons=true&theme=dark&count_private=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotorres-17&layout=compact&theme=dark&hide_langs=html,css)
