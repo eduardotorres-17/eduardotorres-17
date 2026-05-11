@@ -21,9 +21,8 @@ Sou um desenvolvedor focado no ecossistema Full-stack e Mobile, atualmente cursa
 - **DevOps:** Docker, Git, Vercel (Deploy).
 
 ### 📈 Principais Projetos
-*   **[BikeTracker](https://github.com/eduardotorres-17/biketracker)**: Aplicativo mobile para ciclistas com foco em metas e geolocalização.
+*   **[BikeTracker](https://github.com/eduardotorres-17/BikeTracker-Aplicativo-TCC)**: Aplicativo mobile para ciclistas com foco em metas e geolocalização.
 *   **Portal do Cliente**: Sistema de gestão de marcos e armazenamento de arquivos via Supabase.
-*   **Xbrain Test**: Implementação técnica utilizando React, Redux e Material UI.
 
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-bertinetti-torres-a90a73275/)
