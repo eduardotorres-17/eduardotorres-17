@@ -32,8 +32,6 @@ Sou um desenvolvedor focado no ecossistema Full-stack e Mobile, atualmente cursa
 
 ### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardotorres-17&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotorres-17&layout=compact&theme=dark&hide_langs=html,css" alt="Linguagens mais usadas" />
-</p>
+![Estatísticas de Eduardo](https://github-readme-stats-eight-theta.vercel.app/api?username=eduardotorres-17&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eduardotorres-17&layout=compact&theme=dark&hide=html,css)
